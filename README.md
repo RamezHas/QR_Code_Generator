@@ -22,7 +22,7 @@ The QR Code Generator is a simple tool built with 🐍 Python, 🎨 Tkinter, and
 1. Ensure you have Python 3️⃣.x installed.
 2. 📥 Clone the repository:
    ```sh
-   git clone https://github.com/your-username/qr-code-generator.git
+   git clone https://github.com/RamezHas/qr-code-generator.git
    cd qr-code-generator
    ```
 3. Install dependencies:
